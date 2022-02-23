@@ -1,0 +1,15 @@
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.csproj.AssemblyReference.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.AssemblyInfoInputs.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.AssemblyInfo.cs
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.csproj.CoreCompileInputs.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\bin\Debug\net6.0\CSharpPrimer.exe
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\bin\Debug\net6.0\CSharpPrimer.deps.json
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\bin\Debug\net6.0\CSharpPrimer.runtimeconfig.json
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\bin\Debug\net6.0\CSharpPrimer.dll
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\bin\Debug\net6.0\CSharpPrimer.pdb
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.dll
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\refint\CSharpPrimer.dll
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.pdb
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\CSharpPrimer.genruntimeconfig.cache
+C:\Users\Kristo\Documents\Brynja\VisualStudio\CSharpPrimer\CSharpPrimer\obj\Debug\net6.0\ref\CSharpPrimer.dll
